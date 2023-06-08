@@ -5,7 +5,7 @@ The goal of the game is to keep the robot alive for as long as possible,
 avoiding obstacles.
 
 ## Circuit ##
-![img_2.png](img_2.png)
+![](images/circuit.png)
 
 ## How to play ## 
 1. Choose your level with button on the right.
@@ -16,7 +16,7 @@ level up   | level down    | start the game
 
 2. Game starts
 
-![img_5.png](img_5.png)
+![](images/game.png)
 
 3. Control the robot
 
