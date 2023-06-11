@@ -8,7 +8,7 @@ avoiding obstacles.
 ![](images/circuit.png)
 
 ## How to play ## 
-1. Choose your level with button on the right.
+1. Choose your level with **button on the right**.
 
 One click  | Double click  | Hold
 ---------- |---------------| -------------
